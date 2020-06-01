@@ -19,7 +19,7 @@ function setup() {
   box4 = new Box(630,340,40,40);
   box5 = new Box(590,300,40,40);
 
-  box6 = new Box(610,200,40,40);
+  box6 = new Box(610,250,40,40);
 
   cannon = new Cannon(100,100,30,30);
 
